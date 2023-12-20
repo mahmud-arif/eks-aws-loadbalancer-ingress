@@ -1,11 +1,11 @@
 # EKS Cluster and AWS Load Balancer Controller Setup
 
 
-## Application Architecture which we are going to deploy
+## Network Architecture which we are going to deploy
 
 <img src="./ingress.png" alt="ingress" width="50%" />
 
-I use makefile to simplify the running Command
+I use makefile to simplify  running Command
 
 A Makefile is a powerful tool that simplifies the process of managing and automating complex tasks in software development and system administration. It serves as a build automation tool that orchestrates the execution of commands to streamline the development, deployment, and maintenance processes.
 
