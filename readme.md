@@ -147,7 +147,7 @@ spec:
         number: 80
 ```
 
-## Install ingres-class ingress rules nad app components
+## Install ingres-class ingress rules node app components
 
 ```bash
   # Navigate to Directory
